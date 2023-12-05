@@ -8,6 +8,8 @@ This suite of tests is aimed at validating scenarios for both a native mobile ap
 
 Refer to `nativeapp/features` and `webapp/features` directories to explore and manage the scenarios for both.
 
+![Appium2](https://github.com/carlosvagnoni/JavaAppiumCucumber/assets/106275103/4ee3ccab-b432-4901-a6bd-5bdaa9b7f9a8)
+
 ## Table of Contents 📑
 - [Requirements](#requirements)
 - [Folder Structure](#folder-structure)
@@ -20,7 +22,7 @@ Refer to `nativeapp/features` and `webapp/features` directories to explore and m
 
 - JDK 21
 - Appium 2.2.2
-- Appium UiAutomator2 Driver 2.34.2
+- Appium UIAutomator2 Driver 2.34.2
 - Java-Client 9.0.0
 - Selenium 4.15.0
 - Cucumber 7.14.1
