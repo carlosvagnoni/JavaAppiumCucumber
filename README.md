@@ -1,6 +1,9 @@
-# Automated Mobile Testing with Java, Appium, and Cucumber 🤖☕
+# Automated Mobile Testing with Java, Appium, and Cucumber
+![Static Badge](https://img.shields.io/badge/Java-logo?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=rgb(229%2C%2031%2C%2036)&color=rgb(22%2C%2027%2C%2034))
+![Static Badge](https://img.shields.io/badge/Appium-logo?style=for-the-badge&logo=appium&logoColor=rgb(0%2C%20160%2C%20228)&labelColor=white&color=rgb(22%2C%2027%2C%2034))
+![Static Badge](https://img.shields.io/badge/Cucumber-logo?style=for-the-badge&logo=cucumber&logoColor=black&labelColor=rgb(35%2C%20217%2C%20108)&color=rgb(22%2C%2027%2C%2034))
 
-This project provides a structure and tools for automated mobile testing using Java, Appium, and Cucumber, following Behavior-Driven Development (BDD) best practices and employing the Page Object Model design pattern.
+This project offers a framework and tools for automated mobile testing using Java, Appium, and Cucumber, following Behavior-Driven Development (BDD) best practices and employing the Page Object Model design pattern.
 
 ## Testing YouTube Mobile App and Demoblaze WebApp 🧪
 
